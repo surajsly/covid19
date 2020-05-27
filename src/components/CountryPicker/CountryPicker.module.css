@@ -1,0 +1,54 @@
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+}
+.selectContainer {
+  position: relative !important ;
+  color: #455970 !important;
+  cursor: pointer !important;
+}
+
+.optionMenu {
+  overflow-y: scroll;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 0px solid #e1e8ee;
+  width: 100%;
+  transition: opacity 0.5s, height 0.5s, border 0.5s cubic-bezier(1, 1, 1, 0);
+}
+
+.optionMenu::-webkit-scrollbar {
+  width: 6px;
+}
+.optionMenu::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+.optionMenu.active {
+  opacity: 1;
+  height: 132px;
+  border: 1px solid #e1e8ee;
+  transition: opacity 0.5s, height 0.5s;
+}
+
+.optionSelected {
+  width: 300px !important;
+  padding: 10px 20px !important;
+  text-transform: capitalize !important;
+  position: relative !important;
+  border-radius: 5px !important;
+  border: 1px solid #e1e8ee !important;
+}
+
+option {
+  padding: 10px 20px !important;
+  max-height: 44px !important;
+  cursor: pointer !important;
+  width: 100% !important;
+  display: block !important;
+}
+
+.optionItem:hover {
+  background-color: #f6f7f9;
+}
