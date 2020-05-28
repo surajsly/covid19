@@ -46,3 +46,14 @@ export const fetchCountries = async () => {
     console.log(error);
   }
 };
+
+const baseUrl = "https://corona.lmao.ninja/v2/countries";
+
+export const fetchLocation = async () => {
+  try {
+    const { data = [] } = await axios.get(`${baseUrl}`);
+    return data;
+  } catch (error) {
+    console.log(error);
+  }
+};

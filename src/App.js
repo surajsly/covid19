@@ -1,4 +1,6 @@
 import React from "react";
+
+import Map from "./components/Map/Map";
 import Cards from "./components/Cards/Cards";
 import Chart from "./components/Chart/Chart";
 import CountryPicker from "./components/CountryPicker/CountryPicker";
@@ -25,6 +27,7 @@ class App extends React.Component {
     const { data } = this.state;
     return (
       <div className={styles.container}>
+        <Map />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Cards data={data} />
         <Chart data={this.state.data} country={this.state.country} />
