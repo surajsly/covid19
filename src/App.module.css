@@ -1,12 +1,20 @@
-body {
-  background-color: rgb(250, 250, 250);
-}
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
 
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}
+
+.mapHeading {
+  font-family: "Patrick Hand", cursive;
+  font-size: 40px;
+}
+
+.imageClass {
+  width: 40vw;
 }
 
 @media (max-width: 770px) {
