@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Pacifico&display=swap");
 .container {
   margin: 50px 0;
 }
@@ -5,8 +6,15 @@
   margin: 0 2% !important;
 }
 
+.h {
+  text-align: center;
+  font-family: "Chelsea Market", cursive;
+}
+
 .banner {
-  width: 100vw;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
 }
 
 @media (max-width: 770px) {

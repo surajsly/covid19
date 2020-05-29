@@ -30,6 +30,11 @@ const IncidentRate = () => {
         ],
       }}
       options={{
+        title: {
+          display: true,
+          text: "Death Rate",
+          fontSize: 20,
+        },
         scales: {
           xAxes: [
             {

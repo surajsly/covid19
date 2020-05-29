@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   width: 95vw !important;
-  height: 90vh !important;
+  height: 60vh !important;
   margin-left: 5%;
   margin-right: 5%;
   margin-bottom: 5%;
@@ -15,4 +15,25 @@
   height: 50px;
   border-radius: 50%;
   cursor: pointer;
+}
+
+@media (max-width: 320px) {
+  .mapContainer {
+    display: flex;
+    justify-content: center;
+    width: 95vw !important;
+    height: 50vh !important;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+  }
+
+  .marker {
+    background-image: url("../../images/mapbox-icon.png");
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
 }

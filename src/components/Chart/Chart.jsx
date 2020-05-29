@@ -44,6 +44,7 @@ const Chart = ({
           fontSize: 20,
         },
         scales: {
+          responsive: true,
           xAxes: [
             {
               gridLines: {
@@ -80,6 +81,7 @@ const Chart = ({
         ],
       }}
       options={{
+        maintainAspectRatio: false,
         scales: {
           xAxes: [
             {

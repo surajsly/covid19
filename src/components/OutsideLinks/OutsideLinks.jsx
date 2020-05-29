@@ -7,8 +7,8 @@ import CardActionArea from "@material-ui/core/CardActionArea";
 import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Hidden from "@material-ui/core/Hidden";
-import setu from "../../images/setu.png";
-import who from "../../images/who4.png";
+import setu from "../../images/setu3.png";
+import who from "../../images/who7.png";
 import fund from "../../images/newcrop.png";
 import styles from "./OutsideLinks.module.css";
 
@@ -46,8 +46,9 @@ export default function OutsideLinks() {
   const classes = useStyles();
   return (
     <div className={styles.container}>
+      <h1 className={styles.h}>Other Useful Resources:</h1>
       <Grid container spacing={3} justify="center">
-        <Grid item xs={12} md={6}>
+        <Grid item xs={12} md={5} classNale={styles.box}>
           <CardActionArea
             component="a"
             href="https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN"
@@ -80,7 +81,7 @@ export default function OutsideLinks() {
           </CardActionArea>
         </Grid>
 
-        <Grid item xs={12} md={6}>
+        <Grid item xs={12} md={5}>
           <CardActionArea
             component="a"
             href="https://www.who.int/health-topics/coronavirus#tab=tab_1"
@@ -113,11 +114,11 @@ export default function OutsideLinks() {
           </CardActionArea>
         </Grid>
 
-        <Grid item xs={12} md={12}>
+        <Grid item xs={11} md={11}>
           <CardActionArea component="a" href="https://www.pmcares.gov.in/">
-            <card>
+            <Card>
               <img className={styles.banner} src={fund} alt="banner" />
-            </card>
+            </Card>
           </CardActionArea>
         </Grid>
       </Grid>
