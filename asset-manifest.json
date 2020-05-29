@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/covid19/static/css/main.64d48f99.chunk.css",
+    "main.js": "/covid19/static/js/main.88477728.chunk.js",
+    "main.js.map": "/covid19/static/js/main.88477728.chunk.js.map",
+    "runtime-main.js": "/covid19/static/js/runtime-main.f5c467eb.js",
+    "runtime-main.js.map": "/covid19/static/js/runtime-main.f5c467eb.js.map",
+    "static/js/2.f909621a.chunk.js": "/covid19/static/js/2.f909621a.chunk.js",
+    "static/js/2.f909621a.chunk.js.map": "/covid19/static/js/2.f909621a.chunk.js.map",
+    "index.html": "/covid19/index.html",
+    "precache-manifest.a2c5becd6135e542062c49cc5e037666.js": "/covid19/precache-manifest.a2c5becd6135e542062c49cc5e037666.js",
+    "service-worker.js": "/covid19/service-worker.js",
+    "static/css/main.64d48f99.chunk.css.map": "/covid19/static/css/main.64d48f99.chunk.css.map",
+    "static/js/2.f909621a.chunk.js.LICENSE.txt": "/covid19/static/js/2.f909621a.chunk.js.LICENSE.txt",
+    "static/media/grayed.png": "/covid19/static/media/grayed.a049ed61.png",
+    "static/media/newcrop.png": "/covid19/static/media/newcrop.f3194e05.png",
+    "static/media/sentimentAnalysis.png": "/covid19/static/media/sentimentAnalysis.374c0a7b.png",
+    "static/media/who4.png": "/covid19/static/media/who4.89ce99c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c467eb.js",
+    "static/js/2.f909621a.chunk.js",
+    "static/css/main.64d48f99.chunk.css",
+    "static/js/main.88477728.chunk.js"
+  ]
+}
