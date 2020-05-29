@@ -44,7 +44,6 @@ const Chart = ({
           fontSize: 20,
         },
         scales: {
-          responsive: true,
           xAxes: [
             {
               gridLines: {

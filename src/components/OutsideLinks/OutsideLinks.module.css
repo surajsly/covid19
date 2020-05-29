@@ -12,9 +12,7 @@
 }
 
 .banner {
-  max-width: 100%;
-  max-height: 100%;
-  display: block;
+  width: 100vh;
 }
 
 @media (max-width: 770px) {
