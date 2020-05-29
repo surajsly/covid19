@@ -5,6 +5,6 @@
 ![](https://img.shields.io/badge/axios-0.19.2--success)
 ![](https://img.shields.io/badge/mapbox-1.10.1-success)
 ![](https://img.shields.io/badge/chartJS-2.9.3-success)
-![](https://img.shields.io/badge/classnames-2.2.6-success)
+![](https://img.shields.io/badge/classNames-2.2.6-success)
 ![](https://img.shields.io/badge/leaflet-1.6.0-success)
 ![](https://img.shields.io/badge/ghpages-2.2.0-success)
