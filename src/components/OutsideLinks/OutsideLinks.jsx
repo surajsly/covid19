@@ -113,9 +113,6 @@ export default function OutsideLinks() {
             </Card>
           </CardActionArea>
         </Grid>
-        <a className={styles.banner} href="https://www.pmcares.gov.in/">
-          <img src={fund} alt="banner" />
-        </a>
       </Grid>
     </div>
   );

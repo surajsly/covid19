@@ -16,3 +16,17 @@
   border-radius: 50%;
   cursor: pointer;
 }
+
+@media (max-width: 320px) {
+  .mapContainer {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    width: 95vw !important;
+    height: 60vh !important;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+  }
+}
