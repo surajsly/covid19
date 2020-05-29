@@ -80,7 +80,6 @@ const Chart = ({
         ],
       }}
       options={{
-        maintainAspectRatio: false,
         scales: {
           xAxes: [
             {
