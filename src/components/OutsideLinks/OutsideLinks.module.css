@@ -17,6 +17,7 @@
 }
 
 .banner {
+  display: block;
   width: 100vh;
   justify-content: center;
   text-align: center;
