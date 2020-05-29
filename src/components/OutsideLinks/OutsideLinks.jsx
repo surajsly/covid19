@@ -115,7 +115,9 @@ export default function OutsideLinks() {
         </Grid>
 
         <Grid item xs={12} md={12}>
-          <img src={fund} alt="banner" href="https://www.pmcares.gov.in/" />
+          <a href="https://www.pmcares.gov.in/">
+            <img src={fund} className={styles.banner} alt="banner" />
+          </a>
         </Grid>
       </Grid>
     </div>
