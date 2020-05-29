@@ -1,3 +1,10 @@
 # COVID-19 Tracker and Sentiment Analyzer
-![npm](https://img.shields.io/npm/v/axios)
-![](https://img.shields.io/badge/axios-0.19.2-red)
+![](https://img.shields.io/badge/react-16.13.1-red)
+![](https://img.shields.io/badge/reaxtDOM-16.13.1-red)
+![](https://img.shields.io/badge/materialUI-4.10.0-success)
+![](https://img.shields.io/badge/axios-0.19.2--success)
+![](https://img.shields.io/badge/mapbox-1.10.1-success)
+![](https://img.shields.io/badge/chartJS-2.9.3-success)
+![](https://img.shields.io/badge/classnames-2.2.6-success)
+![](https://img.shields.io/badge/leaflet-1.6.0-success)
+![](https://img.shields.io/badge/ghpages-2.2.0-success)
