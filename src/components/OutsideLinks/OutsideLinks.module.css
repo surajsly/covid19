@@ -11,16 +11,8 @@
   font-family: "Chelsea Market", cursive;
 }
 
-.outer {
-  justify-content: center;
-  text-align: center;
-}
-
 .banner {
-  display: block;
-  width: 100vh;
-  justify-content: center;
-  text-align: center;
+  width: 100%;
 }
 
 @media (max-width: 770px) {

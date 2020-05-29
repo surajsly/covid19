@@ -35,7 +35,7 @@ const post = {
 
 const post1 = {
   title: "WHO on Coronavirus",
-  giver: "WHO",
+  giver: "World Health Organization",
   description:
     "WHO is working 24/7 to analyse data, provide advice, coordinate with partners, help countries prepare, increase supplies and manage expert networks.",
   image: who,
@@ -71,11 +71,9 @@ export default function OutsideLinks() {
                 </CardContent>
               </div>
               <Hidden xsDown>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={post.image}
-                  title={post.imageTitle}
-                />
+                <div className={classes.cardMedia} title={post.imageTitle}>
+                  <img src={post.image} className={styles.banner} alt="img" />
+                </div>
               </Hidden>
             </Card>
           </CardActionArea>
@@ -104,12 +102,20 @@ export default function OutsideLinks() {
                 </CardContent>
               </div>
               <Hidden xsDown>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={post1.image}
-                  title={post1.imageTitle}
-                />
+                <div className={classes.cardMedia} title={post.imageTitle}>
+                  <img src={post1.image} className={styles.banner} alt="img" />
+                </div>
               </Hidden>
+            </Card>
+          </CardActionArea>
+        </Grid>
+        <Grid item xs={11} md={11}>
+          <CardActionArea
+            component="a"
+            href="https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN"
+          >
+            <Card>
+              <img src={fund} className={styles.banner} alt="logo" />
             </Card>
           </CardActionArea>
         </Grid>
