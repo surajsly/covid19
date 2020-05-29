@@ -117,7 +117,7 @@ export default function OutsideLinks() {
         <Grid item xs={12} md={12}>
           <CardActionArea component="a" href="https://www.pmcares.gov.in/">
             <Card>
-              <img className={styles.banner} src={fund} alt="banner" />
+              <img src={fund} alt="banner" />
             </Card>
           </CardActionArea>
         </Grid>
