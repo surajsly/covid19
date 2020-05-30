@@ -1,0 +1,184 @@
+{
+    "data": [
+        {
+            "date": "2020-03-20",
+            "positive": 25.81,
+            "negative": 30.11,
+            "neutral": 44.080000000000005
+        },
+        {
+            "date": "2020-03-21",
+            "positive": 29.34,
+            "negative": 30.930000000000003,
+            "neutral": 39.73
+        },
+        {
+            "date": "2020-03-22",
+            "positive": 36.449999999999996,
+            "negative": 25.47,
+            "neutral": 38.080000000000005
+        },
+        {
+            "date": "2020-03-23",
+            "positive": 36.47,
+            "negative": 24.79,
+            "neutral": 38.74
+        },
+        {
+            "date": "2020-03-24",
+            "positive": 33.21,
+            "negative": 23.200000000000003,
+            "neutral": 43.59
+        },
+        {
+            "date": "2020-03-25",
+            "positive": 30.65,
+            "negative": 31.180000000000003,
+            "neutral": 38.17
+        },
+        {
+            "date": "2020-03-26",
+            "positive": 26.06,
+            "negative": 25.330000000000002,
+            "neutral": 48.61
+        },
+        {
+            "date": "2020-03-27",
+            "positive": 31.830000000000002,
+            "negative": 23.28,
+            "neutral": 44.89
+        },
+        {
+            "date": "2020-03-28",
+            "positive": 34.14,
+            "negative": 14.610000000000001,
+            "neutral": 51.24999999999999
+        },
+        {
+            "date": "2020-03-29",
+            "positive": 34.86,
+            "negative": 16.76,
+            "neutral": 48.38
+        },
+        {
+            "date": "2020-03-30",
+            "positive": 36.3,
+            "negative": 25.45,
+            "neutral": 38.25
+        },
+        {
+            "date": "2020-03-31",
+            "positive": 41.33,
+            "negative": 22.15,
+            "neutral": 36.52
+        },
+        {
+            "date": "2020-04-01",
+            "positive": 35.67,
+            "negative": 20.979999999999997,
+            "neutral": 43.35
+        },
+        {
+            "date": "2020-04-02",
+            "positive": 34.160000000000004,
+            "negative": 25.480000000000004,
+            "neutral": 40.36
+        },
+        {
+            "date": "2020-04-03",
+            "positive": 38.14,
+            "negative": 21.33,
+            "neutral": 40.53
+        },
+        {
+            "date": "2020-04-04",
+            "positive": 36.230000000000004,
+            "negative": 19.7,
+            "neutral": 44.07
+        },
+        {
+            "date": "2020-04-06",
+            "positive": 37.95,
+            "negative": 21.529999999999998,
+            "neutral": 40.52
+        },
+        {
+            "date": "2020-04-06",
+            "positive": 35.33,
+            "negative": 19.85,
+            "neutral": 44.82
+        },
+        {
+            "date": "2020-04-07",
+            "positive": 32.34,
+            "negative": 29.160000000000004,
+            "neutral": 38.5
+        },
+        {
+            "date": "2020-04-08",
+            "positive": 35.97,
+            "negative": 26.11,
+            "neutral": 37.92
+        },
+        {
+            "date": "2020-04-09",
+            "positive": 38.18,
+            "negative": 20.89,
+            "neutral": 40.93
+        },
+        {
+            "date": "2020-04-10",
+            "positive": 42.15,
+            "negative": 20.369999999999997,
+            "neutral": 37.480000000000004
+        },
+        {
+            "date": "2020-04-11",
+            "positive": 35.56,
+            "negative": 22.28,
+            "neutral": 42.16
+        },
+        {
+            "date": "2020-04-12",
+            "positive": 37.19,
+            "negative": 22.85,
+            "neutral": 39.96
+        },
+        {
+            "date": "2020-04-13",
+            "positive": 39.89,
+            "negative": 20.119999999999997,
+            "neutral": 39.989999999999995
+        },
+        {
+            "date": "2020-04-14",
+            "positive": 35.870000000000005,
+            "negative": 22.259999999999998,
+            "neutral": 41.870000000000005
+        },
+        {
+            "date": "2020-04-15",
+            "positive": 35.010000000000005,
+            "negative": 23.94,
+            "neutral": 41.05
+        },
+        {
+            "date": "2020-04-16",
+            "positive": 34.06,
+            "negative": 16.6,
+            "neutral": 49.34
+        },
+        {
+            "date": "2020-04-17",
+            "positive": 34.57,
+            "negative": 22.98,
+            "neutral": 42.449999999999996
+        },
+        {
+            "date": "2020-04-18",
+            "positive": 34.58,
+            "negative": 28.07,
+            "neutral": 37.35
+        }
+    ]
+}
