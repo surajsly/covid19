@@ -17,3 +17,9 @@ The aim of this project is to create an ineractive web based **COVID-19 Tracker 
 ## About the Project
 
 This website was built using **[React](https://reactjs.org/)** and also uses **[mapbox](https://www.mapbox.com/)** to show maps layered by the the markers having tooltips showing the current status due to COVID-19. Website uses **[ChartJS](https://www.chartjs.org/)** to represent data fetched using **[axios](https://www.npmjs.com/package/axios)** form **[NovelCOVID API](https://github.com/NovelCOVID/API)**. Apart from just representing data fetched from API in charts, this Website also done Sentiment Analysis over the tweets of people for span of 30 days to learn more about imapct of COVID-19 on us. The sentiment analysis is done over 300,000 tweets globaly and has been represented interactively using line graphs and Pie Chart.     
+
+## Project Tour
+
+It start with this COVID-19 map powered by **[mapbox](https://www.mapbox.com/)** used to represent total number people infected, recovered and died because of COVID-19.
+
+![](https://drive.google.com/open?id=10ph1qcR075T-YiSJPSFwy2_6FQT2J5BK)
