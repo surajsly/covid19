@@ -22,4 +22,4 @@ This website was built using **[React](https://reactjs.org/)** and also uses **[
 
 It start with this COVID-19 map powered by **[mapbox](https://www.mapbox.com/)** used to represent total number people infected, recovered and died because of COVID-19.
 
-![](https://drive.google.com/open?id=10ph1qcR075T-YiSJPSFwy2_6FQT2J5BK)
+![](https://drive.google.com/file/d/10ph1qcR075T-YiSJPSFwy2_6FQT2J5BK/view?usp=sharing)
