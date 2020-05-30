@@ -1,5 +1,6 @@
-![main heading](https://github.com/surajsly/covid19/blob/gh-pages/static/media/grayed.a049ed61.png) 
+![main heading](https://github.com/surajsly/covid19/blob/gh-pages/static/media/grayed.a049ed61.png)
 # COVID-19 Tracker and Sentiment Analyzer
+visit us on : 
 ![](https://img.shields.io/badge/react-16.13.1-red?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/reaxtDOM-16.13.1-red?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/materialUI-4.10.0-success?style=for-the-badge&logo=appveyor)
