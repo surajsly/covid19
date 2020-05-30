@@ -1,3 +1,4 @@
+![main heading](https://github.com/surajsly/covid19/blob/gh-pages/static/media/grayed.a049ed61.png) 
 # COVID-19 Tracker and Sentiment Analyzer
 ![](https://img.shields.io/badge/react-16.13.1-red)
 ![](https://img.shields.io/badge/reaxtDOM-16.13.1-red)
