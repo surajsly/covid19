@@ -23,4 +23,9 @@ The aim of this project is to create an ineractive web based **COVID-19 Tracker 
 This website was built using **[React](https://reactjs.org/)** and also uses **[mapbox](https://www.mapbox.com/)** to show maps layered by the the markers having tooltips showing the current status due to COVID-19. Website uses **[ChartJS](https://www.chartjs.org/)** to represent data fetched using **[axios](https://www.npmjs.com/package/axios)** form **[NovelCOVID API](https://github.com/NovelCOVID/API)**. Apart from just representing data fetched from API in charts, this Website also done Sentiment Analysis over the tweets of people for span of 30 days to learn more about imapct of COVID-19 on us. The sentiment analysis is done over 300,000 tweets globaly and has been represented interactively using line graphs and Pie Chart.     
 
 ## contributor
- <a href="https://github.com/surajsly"><img src="https://avatars0.githubusercontent.com/u/50519406?s=400&u=4ec5d0f9db6f659b54a10e50f7c2772645a04eb6&v=4" width="100px;" alt=""/><br /><sub><b>Suraj Singh</b></sub></a><br /><a href="https://github.com/surajsly" title="Code">💻</a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/surajsly"><img src="https://avatars0.githubusercontent.com/u/50519406?s=400&u=4ec5d0f9db6f659b54a10e50f7c2772645a04eb6&v=4" width="100px;" alt=""/><br /><sub><b>Suraj Singh</b></sub></a><br /><a href="https://github.com/surajsly" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/HimanshuGawri"><img src="https://avatars1.githubusercontent.com/u/52201706?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Himanshu</b></sub></a><br /><a href="https://github.com/HimanshuGawri" title="Code">💻</a></td>
+</tr>
+</table>
