@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/ghpages-2.2.0-success?style=for-the-badge&logo=appveyor)
 
 ## Background
-
+The recent outbreak of coronavirus disease **(COVID-19)** has fabricated a global health crisis that has had a deep impact on the way we perceive our everyday lives and changed humans on the fundamental ideological level.  The alarming levels of spread and severity forced more than 100 countries to impose partial or full lockdown.  The cost of Human life is not comparable to anything in and beyond this world. The phycological damage is also stupendous. This crisis has helped us to learn that we become the top tier species in this world by the virtue of the power of collaboration. This crisis makes us realize that we have to play along with others in this game to survive and win. The divide of boundries became narrow, We shared knowledge and technologies to fight a common enemy that has threatened our existence. The sense of empathy and togetherness has been escalated among us. In this time of the global pandemic, We realized that the stories of heroes who aid people in pain and agony are true. This outbreak of COVID-19 has encouraged us to achieve extraordinary things in this extraordinary time and came out victorious and as a better version of ourselves. 
 
 
 ## Aim of the Project
