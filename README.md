@@ -10,3 +10,10 @@
 ![](https://img.shields.io/badge/leaflet-1.6.0-success?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/ghpages-2.2.0-success?style=for-the-badge&logo=appveyor)
 
+## Aim of the Project
+
+The aim of this project is to create an ineractive web based **COVID-19 Tracker and Sentiment Analyser**. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This app helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web app.
+  
+## About the Project
+
+This website was built using [React](https://reactjs.org/) and also uses [mapbox](https://www.mapbox.com/) to show maps layered by the the markers having tooltips showing the current status due to COVID-19. Website uses [ChartJS](https://www.chartjs.org/) to represent data fetched using [axios](https://www.npmjs.com/package/axios) form [NovelCOVID API](https://github.com/NovelCOVID/API). Apart from just representing data fetched from API in charts, this Website also done Sentiment Analysis over the tweets of people for span of 30 days to learn more about imapct of COVID-19 on us. The sentiment analysis is done over 300,000 tweets globaly and has been represented interactively using line graphs and Pie Chart.     
