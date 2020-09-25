@@ -17,7 +17,7 @@ The recent outbreak of coronavirus disease **(COVID-19)** has fabricated a globa
 
 ## Aim of the Project
 
-The aim of this project is to create an ineractive web based **COVID-19 Tracker and Sentiment Analyser**. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This app helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web app.
+The Aim of this project is to create an ineractive web based **COVID-19 Tracker and Sentiment Analyser**. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This app helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web app.
   
 ![sentiment](https://github.com/surajsly/covid19/blob/gh-pages/static/media/sentimentAnalysis.374c0a7b.png)  
   
